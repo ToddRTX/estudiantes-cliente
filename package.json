@@ -11,9 +11,6 @@
     "react-spinners": "^0.9.0",
     "react-toastify": "^6.1.0"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
